@@ -26,8 +26,8 @@ John Doe is a Build Team member unsatisfied with his role. He thinks what the gr
 While rummaging through the Tech Dump, he falls in and finds himself in a new world. At first everything seems normal, but eveyone keeps breaking out into song. John Does must build a device to take him back to the regular world.
 <br> <br>
 
-## ACT 1
-# Scene 1
+# ACT 1
+## Scene 1
 *<div align="center">
 The Build Team room is in a state of commotion, crowded with people.
 There is excitement in the air. Something big is happening.*
