@@ -39,7 +39,7 @@ There is excitement in the air. Something big is happening.*
 </div>
 <br>
 <div align="center">
-(FIRSTNAME LASTNAME pushes through to see it.)
+(John Doe pushes through to see it.)
 </div>
 <br>
 <div align="center">
