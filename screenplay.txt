@@ -15,10 +15,10 @@ February 7, 2026
   The Build Team room is in a state of commotion, crowded with people.
   There is excitement in the air. Something big is happening. The crowd
   parts are we see what they are gathered around: a large motor on a
-  wooden pallet. Our protagonist, FIRSTNAME LASTNAME pushes through to
+  wooden pallet. Our protagonist, JOHN DOE pushes through to
   see it.
 
-          FIRSTNAME LASTNAME
+          JOHN DOE
       What the hell is that?
 
 
