@@ -57,3 +57,5 @@ Become functional member of Build Team
 
 MISC IDEAS:
 - something about Iain's dad having a Masters Degree in Dairy Farming
+- annies dog dies
+- desmond saves protagonist from ice caves while riding a komodo dragon
