@@ -54,3 +54,6 @@ Return to real world
 
 [Denoument]  
 Become functional member of Build Team  
+
+MISC IDEAS:
+- something about Iain's dad having a Masters Degree in Dairy Farming
