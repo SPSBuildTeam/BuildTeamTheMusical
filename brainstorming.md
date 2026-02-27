@@ -64,7 +64,7 @@ MISC IDEAS:
 - Motor is Sisyphus' boulder
 
 [Flaws]
-- Doesn't like build team, look down on all the projects
+- Doesn't like build team, looks down on all the projects
   - It's trivial
 - Arrogant
 - Too good at physics
@@ -74,7 +74,7 @@ MISC IDEAS:
   - False Korniss
 - Three beasts: alpha, beta, gamma
 - Poison someone with the assassin's teapot
-- Van der Graaf generator
+- Van de Graaff generator
 - The three challenges warm their heart, gain companions
   - Companions are personified demos
   - Rag tag group to take on main villain
@@ -87,23 +87,23 @@ MISC IDEAS:
 [Beasts and Companions]
 - Assassin's teapot
   - Companion alpha is an assassin and likes tea
-  - They decide to not kill the beast and secretly give it tea
-  - The beast is happy and no longer a threat
   - The beast is named Diversi
   - It can't fall asleep
-    - The tea helps them go to sleep
-- Van der Graaf generator
+    - They decide to not kill the beast and secretly give it tea
+    - The tea helps it go to sleep
+    - The beast is happy and no longer a threat
+- Van de Graaff generator
   - Companion is mad scientist
     - Better at physics than protagonist
   - Beast is giant set of pie tins
     - Hivemind, babies
   - They get blown away
-    - This is part of thir life cycle
+    - This is part of their life cycle
 - Money
   - Companion is overworked and misses physics
     - They convince the protagonist not to go for the money
 - Beast gamma, main villain
-  - Fake Knorniss
+  - Fake Korniss
     - Really Jonsson in JEC
       - Wants to take back school to only engineering
       - Shares flaws with protagonist at the beginning: good at physics, arrogant
