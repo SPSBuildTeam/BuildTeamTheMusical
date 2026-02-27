@@ -60,3 +60,51 @@ MISC IDEAS:
 - annies dog dies
 - desmond saves protagonist from ice caves while riding a komodo dragon
 - korniss as the sensei
+- Magical aid is magic copy of Griffiths
+- Motor is Sisyphus' boulder
+
+[Flaws]
+- Doesn't like build team, look down on all the projects
+  - It's trivial
+- Arrogant
+- Too good at physics
+
+[Challenges and Tempatations]
+- A mysterious figure tells them they must defeat three beasts
+  - False Korniss
+- Three beasts: alpha, beta, gamma
+- Poison someone with the assassin's teapot
+- Van der Graaf generator
+- The three challenges warm their heart, gain companions
+  - Companions are personified demos
+  - Rag tag group to take on main villain
+- First time they try to beat the main villain they lose, assassin dies due to protagonist's arrogance
+- The protagonist realizes they need to trust their team
+- They work together to beat the villain
+  - The member they thought died comes back
+- They three companions rules tech dump world, protagonist returns to real world
+
+[Beasts and Companions]
+- Assassin's teapot
+  - Companion alpha is an assassin and likes tea
+  - They decide to not kill the beast and secretly give it tea
+  - The beast is happy and no longer a threat
+  - The beast is named Diversi
+  - It can't fall asleep
+    - The tea helps them go to sleep
+- Van der Graaf generator
+  - Companion is mad scientist
+    - Better at physics than protagonist
+  - Beast is giant set of pie tins
+    - Hivemind, babies
+  - They get blown away
+    - This is part of thir life cycle
+- Money
+  - Companion is overworked and misses physics
+    - They convince the protagonist not to go for the money
+- Beast gamma, main villain
+  - Fake Knorniss
+    - Really Jonsson in JEC
+      - Wants to take back school to only engineering
+      - Shares flaws with protagonist at the beginning: good at physics, arrogant
+      - Texas accent
