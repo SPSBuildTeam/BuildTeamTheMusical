@@ -1,3 +1,9 @@
+p: protagonist
+k: false korniss
+a: assassin
+s: scientist
+m: money guy
+
 Scene 1: build team room
 
 - P stands in the middle of the stage with everyone else running around him
@@ -38,8 +44,8 @@ Scene 5:
 - Scientist should say vdg is solution but then they dont have a way to get the babies to it
 - P and s argue over how to attract the tins
 - But a has bait and plans to set it up so then p and s must work together and put aside differences to fix vdf and then
-- They actually talk about real physics of the vdf (little comb at the top that conducts charge)
-- When bait is activated the pie tin people run to the vdf, then place tins on it, then when it is turned on they fall over and run away
+- They actually talk about real physics of the vdg (little comb at the top that conducts charge)
+- When bait is activated the pie tin people run to the vdg, then place tins on it, then when it is turned on they fall over and run away
 
 / potential intermission
 
