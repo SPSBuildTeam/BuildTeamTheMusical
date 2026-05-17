@@ -1,0 +1,173 @@
+Scene 5: SMALL VILLAGE - X:00 PM
+
+John Bernoulli stands with Assassin, both looking around a small village. Assassin is slinking around peering at things stealthily. John Bernoulli is just kinda standing there. 
+
+ASSASSIN
+Are you sure this is the right place?
+
+JOHN BERNOULLI
+Of course I am! You think I’d be wrong about this? This is trivial. (Scoffs) 
+
+ASSASSIN
+Okay… But… (Side eyes John Bernoulli) Are you sure? Sure-Sure? It’s a bit… quiet.
+
+Pie tin babies come running in chaotically and noisily, making strange pie tin baby noises. They run around John Bernoulli and Assassin and around the stage. Assassin and John Bernoulli stare wide eyed.
+
+JOHN BERNOULLI
+(To Assassin, obnoxiously) Told you.
+
+Scientist, looking very frazzled, comes crazily running in towards the pie tin babies, brandishing- something- towards them. Something sciencey and not something expected for brandishing. Scientist gestures menacing towards them until they leave, going offstage. (Think grumpy grandpa making neighborhood teens get off the lawn)
+
+SCIENTIST
+(Still brandishing the object) Hah! That’s right, leave! And stay gone this time!
+(Finally seems to notice J and A, hastily puts object down. Or brandishes it at them instead, your choice)
+Ah. Hello. Sorry about that, we’ve been having a problem with invasive baby pie tins recently. They just won’t leave! And who are you?
+
+JOHN BERNOULLI
+John Bernoulli, here to save your town!
+
+Scientist looks very unimpressed. Scientist turns to look at Assassin.
+
+SCIENTIST
+And you?
+
+ASSASSIN
+Yeah, I’m not telling you my name. 
+
+SCIENTIST
+Well, in any case, both of you need to go. These pie tins have been running about the village causing havoc for days now, and I haven’t managed to make them leave. It’s a serious safety concern, and you need to stay away for your own good. 
+
+JOHN BERNOULLI
+That’s ridiculous, they’re just pie tins!
+
+A pie tin baby runs in and pokes john and leaves.
+
+SCIENTIST
+See? They are a hazard. Now, take my advice and get a move on while you can.
+
+JOHN BERNOULLI
+No, we’re here to stop them.
+
+ASSASSIN
+We’re staying.
+
+SCIENTIST
+Well, I suppose I can’t stop you. In that case, let’s brainstorm at the lab. You can help me stop them.
+
+(SCENE CHANGE)
+Lab - X:00 PM
+
+ASSASSIN
+That’s a lot of awards. And wires. And… a (insert strange unexpected thing that is in either Build Team or a teacher’s office or somewhere else. Ex. Bike lock, orange, banana, egg beaters, rake, duck, dead rigid cat, etc.)????
+
+SCIENTIST
+Yes, well, I’ve had quite the career, and you never know what you’ll need when you’re doing physics. I decided to settle down and I built this lab in the village, but now the pie tins are ruining it all.
+
+JOHN BERNOULLI
+We’ll stop them.
+
+SCIENTIST
+Yes. We’ll need to use the Van de Graaff generator to repel them away  from the village but I’m not sure how to get the pie tin babies all to come to it and be in one place. As you saw today, they’re very hard to corral.
+
+JOHN BERNOULLI
+I know! We can attract them with a large magnet! Their electron spins will align with the magnetic field and they will experience an attractive force!
+
+SCIENTIST
+That’s not going to work.
+
+JOHN BERNOULLI
+What do you mean, of course it will work! It’s basic physics! You’re a scientist, you should know this!
+
+SCIENTIST
+Well, I don’t exactly have a giant magnet just lying around somewhere. But even if I did…     John, aluminum is only paramagnetic. With the strength of the magnet needed, there’s no way using it to attract the pie tins is at all practical.
+
+JOHN BERNOULLI
+It doesn’t need to be practical!
+
+SCIENTIST
+What? Of course it does! You’re being ridiculous, I can’t work with you. Now leave, so I can create an actual working plan.
+
+JOHN BERNOULLI
+You’re the one being ridiculous! You can’t tell me to leave, you need me to help you!
+
+SCIENTIST
+I don’t know where you got that idea in your head, young man, but I absolutely do not!
+
+John Bernoulli and the Scientist devolve into arguing. Throughout all of this, the Assassin has been slinking around the laboratory, observing and inspecting various equipment and objects. Now, the Assassin comes forward, holding something.
+
+ASSASSIN
+Neither of you are thinking. It’s obvious what we should use as bait.
+
+John Bernoulli and the Scientist look over. The Assassin shows them what she is holding, to reveal…… PIE!
+
+ASSASSIN
+I’ll set it up in the middle of town while you physics people get the Van de Graaff sorted.
+
+The Assassin quickly leaves before anyone can protest. It seems assassin skills come in handy sometimes.
+
+JOHN BERNOULLI
+Pie?! There’s no way that’ll work.
+
+SCIENTIST
+Not very scientific, true. We disproved Aristotle’s idea that all things move towards their natural place ages ago. But perhaps a like of pie could explain why the pie tins bother the baker so much. It’s worth a shot. In any case, she’s gone already, there’s nothing we can do about it now.
+
+JOHN BERNOULLI
+Fine. Where’s the Van de Graaff?
+
+SCIENTIST
+Right over… (walks over to it) here. But we should test it to make sure it will be powerful enough. Once we turn the Van de Graaff on, it should create an electric field with the large metal building in the abandoned town next to us. Then the pie tins will fly away to the abandoned town.
+
+They test the Van de Graaff. It is not working good. They need to fix it.
+
+JOHN BERNOULLI
+I didn’t even feel a shock. We definitely need to fix it. [name] and [name] were working on fixing the one in Build Team the other day.
+
+SCIENTIST
+Do you remember how they fixed it? If so, I could just leave you to work on this while I help set up.
+
+JOHN BERNOULLI
+(Thinks back. Realizes he doesn’t remember)
+No… I wasn’t paying any attention.
+
+SCIENTIST
+Okay. The first thing we should do is clean it to make sure it isn’t dirty.
+
+They try cleaning it.
+
+JOHN BERNOULLI
+It’s not very dirty.
+
+SCIENTIST
+Maybe we just need to figure out a way to make it stronger. It works with a belt and two rollers, and the bottom roller is made of a material that is more likely to grab onto electrons than the belt, so the belt gets positively charged. And then at the top of the Van de Graaff, there is a metal comb near to but not touching the belt. The electrons in the comb are attracted to the positively charged belt, and the comb is connected to a sphere which gets positively charged.
+
+JOHN BERNOULLI
+Can we switch out the material for a better one?
+
+SCIENTIST
+We can try. I have some nylon we could use in order to increase the positive charge on the belt.
+
+JOHN BERNOULLI
+Great, I can put it in.
+
+They fix the Van de Graaff.
+
+JOHN BERNOULLI
+It’s fixed! Now let’s take it to the pie tins.
+
+(SCENE CHANGE)
+
+SMALL VILLAGE
+
+The pie tins are gathered around, all eating pie. John and the scientist set up the Van de Graaff at the table near the pie tins.
+
+SCIENTIST
+Turn it on!
+
+They turn on the van de Graaff and the pie tins begin to slowly be forced away, still eating their pie. (I think they put the pie tins on the Van de Graaff and then leave, eating pie) 
+
+JOHN BERNOULLI
+We did it!
+
+Intermission
+
+(SCENE CHANGE)
